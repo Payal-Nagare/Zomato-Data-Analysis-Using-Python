@@ -1,4 +1,4 @@
-#Restaurant Data Analysis
+Restaurant Data Analysis
 
 Overview
 
